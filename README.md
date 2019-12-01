@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). It consists of a dropwdown menu holding links for a currency converter that allows for simultaneous conversion from one currency to three. It also holds a card game where the user has to guess which of the three cards is the winning card.
 
 ## Available Scripts
 
@@ -66,3 +66,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+### Components Needed
+The app makes use of the Dropdown bootstrap plugin info here: https://react-bootstrap.github.io/components/dropdowns/
+It also relies on the ReactCardFlip component, info here: https://www.npmjs.com/package/react-card-flip
