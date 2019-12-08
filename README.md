@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). It consists of a dropwdown menu holding links for a currency converter that allows for simultaneous conversion from one currency to three. It also holds a card game where the user has to guess which of the three cards is the winning card.
 
+Currency Converter:
+![image](https://user-images.githubusercontent.com/51275356/70397557-fe66c600-19d8-11ea-8eb1-d2d61b86a55d.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
